@@ -1,7 +1,7 @@
 MeterMuster (Adobe Illustrator Script)
 ======================================
 
-![MeterMuster Logo](https://www.dropbox.com/s/efxi1umrcc3og63/MeterMuster_Logo.png?raw=1)
+![MeterMuster Logo](https://github.com/Creatide/AI_MeterMuster/blob/master/README/MeterMuster_Logo.png)
 
 With MeterMuster you can create circular scales, digital cluster scales, ticks to clocks, sci-fi elements, motion graphics assets and so on… Just paly with values and get nice circular scales to your artwork.
 
@@ -19,7 +19,7 @@ Just start script and there will be opened dialog panel with default settings. C
 
 MeterMuster creates always new document when you running the script. Even if you close it! :)
 
-![MeterMuster Dialog Panel](https://www.dropbox.com/s/h73e0nizocjxsxx/MeterMuster_ExamplesPanel.png?raw=1)
+![MeterMuster Dialog Panel](https://github.com/Creatide/AI_MeterMuster/blob/master/README/MeterMuster_ExamplesPanel.png)
 
 #### Features
 | Feature | Description |
@@ -34,7 +34,7 @@ MeterMuster creates always new document when you running the script. Even if you
 | **Mark First** | Mark first line of the scale (default color is red, but you can change this easily in script). |
 
 #### Examples
-![MeterMuster Examples GIF](https://www.dropbox.com/s/ktfxo8yqxvm8lx3/MeterMuster_Example.gif?raw=1)
+![MeterMuster Examples GIF](https://github.com/Creatide/AI_MeterMuster/blob/master/README/MeterMuster_Example.gif)
 
 ## About
 I've developed this script to make it easier to build scales for digital clusters, clocks, sci-fi assets and so on... It's still quite experimental stage and there could be much more to make it even better. Best would be if it works inside of CC panel and you can customize values on the fly... Maybe someday I'll update it. I have quite nice time with this script while I've tried random values there, maybe you'll find it useful too or use it base for your own version of it.
